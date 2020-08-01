@@ -1,0 +1,72 @@
+body {
+  font-family: "Poppins";
+  margin: 0px;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 20px;
+}
+p {
+  color: dimgray;
+}
+.name-hightlight {
+  color: rgb(83, 44, 44);
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 100%;
+}
+.top-backimg {
+  background: url("../images/grayCircle2.png");
+  background-repeat: no-repeat;
+}
+section {
+  height: 500px;
+  padding-bottom: 150px;
+}
+.link-button {
+  text-decoration: none;
+  background-color: rgb(83, 44, 44);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.dream-area {
+  background: url("../images/whiteFlower.jpg");
+  background-repeat: no-repeat;
+}
+.dream-color {
+  color: palevioletred;
+}
+.single-experience {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+  height: 70%;
+  background-color: white;
+}
+.experience-area {
+  background: url("../images/whiteBk.jpg");
+  background-repeat: no-repeat;
+}
+#fullStack {
+  border-left: 7px solid rgb(83, 44, 44);
+}
+#newbie {
+  border-left: 7px solid gray;
+}
+footer p {
+  text-align: center;
+  font-size: 10px;
+}
